@@ -16,18 +16,22 @@ site can be viewed live <br>
 # Home page containing Information about Disease
 ![Screenshot (624)](https://user-images.githubusercontent.com/69461336/159123788-24db11ca-5b38-45a0-94bb-ec452f3e509b.png)
 
-# Malaria (Disease predictor) page in navigation it is next to Home page tab when clicked on it and scrolled down  it appyears
+# Malaria (Disease predictor) page in navigation it is next to Home page tab when clicked on it and scrolled down  it appears
 ![Screenshot (609)](https://user-images.githubusercontent.com/40494619/155872572-86d312a7-f632-4471-b804-80ecfe7d322f.png)
-Selecting sample image to be tested for prediction for upload
-![Screenshot (612)](https://user-images.githubusercontent.com/40494619/155872590-035243af-8f1e-4b11-9ecb-1d2d7eec63b2.png)
-# uploaded sample image (when clicked on submit ,it starts predicting by classifying image
-![Screenshot (613)](https://user-images.githubusercontent.com/40494619/155872593-ce48dfec-babe-419e-ab78-a45b91073839.png)
+# Selecting sample image to be tested for prediction for upload
+![Screenshot (625)](https://user-images.githubusercontent.com/69461336/159125625-cb6a8cf0-f0b8-43c6-9ded-ce33862db11f.png)
+
+
+
 # Output -infected cell (malaria positive)
-![Screenshot (617)](https://user-images.githubusercontent.com/40494619/155872612-abcb679c-0789-49bb-ab10-e1b40a01c3a4.png)
+![Screenshot (631)](https://user-images.githubusercontent.com/69461336/159125729-29590364-1bcc-470a-80d7-681a8f771a25.png)
+
 # Another sample image taken for prediction
-![Screenshot (618)](https://user-images.githubusercontent.com/40494619/155872619-34937f54-bfc2-4d8b-a3a0-ea97c8784e33.png)
+![Screenshot (627)](https://user-images.githubusercontent.com/69461336/159125742-bfa3c451-b6fa-440b-9547-1dd4c7256c1b.png)
+
 # Output image (Malaria not present)
-![Screenshot (619)](https://user-images.githubusercontent.com/40494619/155872629-bb447a5c-9dbf-45e3-bd22-47cf87aafe7a.png)
+
+![Screenshot (630)](https://user-images.githubusercontent.com/69461336/159125744-d6a391a7-a08c-42f6-8094-feca391f0993.png)
 
 # Video of Project
 
