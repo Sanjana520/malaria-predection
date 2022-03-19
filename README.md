@@ -10,9 +10,12 @@ site can be viewed live <br>
 # Screenshots of Project
 
 # Home page of project
-![Screenshot (607)](https://user-images.githubusercontent.com/40494619/155872550-e7db11d2-b152-4a14-810d-f8c714a4a6b9.png)
+![Screenshot (623)](https://user-images.githubusercontent.com/69461336/159123771-aa8ba3b5-ba09-4394-8dc4-69947bf19008.png)
+
+
 # Home page containing Information about Disease
-![Screenshot (608)](https://user-images.githubusercontent.com/40494619/155872561-6f15a2c6-f92f-4eb7-a0ab-a8ee3f7cc521.png)
+![Screenshot (624)](https://user-images.githubusercontent.com/69461336/159123788-24db11ca-5b38-45a0-94bb-ec452f3e509b.png)
+
 # Malaria (Disease predictor) page in navigation it is next to Home page tab when clicked on it and scrolled down  it appyears
 ![Screenshot (609)](https://user-images.githubusercontent.com/40494619/155872572-86d312a7-f632-4471-b804-80ecfe7d322f.png)
 Selecting sample image to be tested for prediction for upload
@@ -28,7 +31,7 @@ Selecting sample image to be tested for prediction for upload
 
 # Video of Project
 
-https://user-images.githubusercontent.com/40494619/155873377-164f5b8d-c183-4e14-9e04-847078f6b04a.mp4
+
 
 
 ## Aim / Purpose
