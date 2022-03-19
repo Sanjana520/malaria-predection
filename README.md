@@ -37,6 +37,10 @@ site can be viewed live <br>
 
 
 
+https://user-images.githubusercontent.com/69461336/159126097-6147dbb8-13fb-428f-aede-e9d34183e7bf.mp4
+
+
+
 
 ## Aim / Purpose
 Online Malaria Detector - Detects sample weather it is infected with malaria or not this model uses CNN (convolutional neural network) for classifying the images ,This project aims to demonstrate how online disease prediction/detection through Machine learning can save time and prove helpful for remote areas and villages also this helps in digitalization of records and error free mechanism saving time  cost and energy
