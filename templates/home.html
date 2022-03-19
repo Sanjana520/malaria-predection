@@ -1,0 +1,71 @@
+
+
+
+{% extends 'main.html' %}
+
+
+ 
+<main>
+{% block content %}
+
+{% if message %}
+        <div class="alert alert-danger">{{ message }}</div>
+    {% endif %}
+<div class="container">
+
+		      <div class="sm-2">
+    <div class="row row-cols-2 row-cols-sm-2 g-2">
+			<img src="{{url_for('static', filename='logo.jpg')}}" class="d-block ">
+
+      <div class="col">
+        <div class="card">
+
+
+          <div class="card-body">
+	</div>
+        <h2>Online Malaria Prediction</h2>
+
+        <h5>A Deep Learning based WebApp </h5>
+		<b>Model Accuracies:</b>
+     <p>Malaria: <strong>96%</strong></p>
+		<div class="container">
+		        <div class="row">
+            <div class="col-md-14card card-body" style="box-shadow: 0 0 20px black; margin:20px;">
+                <h4>Malaria</h4>
+                <p> Malaria is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia.</p>
+                <h5>Symptoms</h5>
+                <ul>
+                    <li>Cough, which may produce greenish, yellow or even bloody mucus.</li>
+                    <li>Fever, sweating and shaking chills.</li>
+                    <li>Shortness of breath.</li>
+                    <li>Rapid, shallow breathing.</li>
+                </ul>
+				 <h5>Problem Statement challenges In society </h5>
+                <ul>
+                    <li>Malaria mainly spreads with stagnent water and in India there are many regions which have high waterfall</li>
+                    <li>Tribal  hilly areas as well as villages its difficult to have good testing lab with resources available resulting in suffering and loss</li>
+                    <li>Hence a dedicated onlinen system can be set up in those areas or this type of system will help in getting their reports without travelling to city or big hospital</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+ <br>
+        
+     
+
+
+      
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+       
+        
+
+        <br>
+
+{% endblock %}
